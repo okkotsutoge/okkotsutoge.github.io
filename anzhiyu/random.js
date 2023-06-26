@@ -1,1 +1,1 @@
-var posts=["2023/06/25/hello-world/","2023/06/26/hello-world - 副本/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2023/06/26/hello-world - 副本/","2023/06/25/hello-world/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
