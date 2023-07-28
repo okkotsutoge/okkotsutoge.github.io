@@ -178,22 +178,22 @@
   function initValine () {
     const valine = new Valine(Object.assign({
       el: '#vcomment',
-      appId: '',
-      appKey: '',
-      avatar: 'monsterid',
+      appId: 'LE7uxOBPyHgjWKdvqhf3B3NA-gzGzoHsz',
+      appKey: 'eE4wKx5tJ6r8j0amSx4YlsNw',
+      avatar: '',
       serverURLs: '',
       emojiMaps: "",
       path: window.location.pathname,
-      visitor: false
+      visitor: 
     }, null))
   }
 
   if (typeof Valine === 'function') initValine() 
-  else getScript('/%5Bobject%20Object%5D').then(initValine)
+  else getScript('https://cdn.jsdelivr.net/npm/valine/dist/Valine.min.js').then(initValine)
 }
 
-if ('Valine' === 'Valine' || !false) {
-  if (false) btf.loadComment(document.getElementById('vcomment'),loadValine)
+if ('Valine' === 'Valine' || !true) {
+  if (true) btf.loadComment(document.getElementById('vcomment'),loadValine)
   else setTimeout(loadValine, 0)
 } else {
   function loadOtherComment () {
