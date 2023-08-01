@@ -4,13 +4,27 @@
   
     
     <entry>
-      <title>N2语法：表示做事的时机的一些语法「間・間に・うちに・折に・ごとに・たびに・ぶり」</title>
+      <title>N2语法：表示做事的时机-「間・うちに・折に・ごとに・たびに・ぶり」等语法解析</title>
       <link href="/2023/08/01/N2_uchini_aidani_etc_grammar/"/>
       <url>/2023/08/01/N2_uchini_aidani_etc_grammar/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h2 id="間-和-間に-🎬"><a href="#間-和-間に-🎬" class="headerlink" title="間 和 間に 🎬"></a>間 和 間に 🎬</h2><p><strong>「間に」表示<font color=Red>做某事的这段时间发生了某件事，多用表示瞬时动作的动词</font>，而「間」表示<font color=Red>做某事的期间持续地做某件事，多用表示持续动作的动词</font></strong></p><h3 id="辨析"><a href="#辨析" class="headerlink" title="辨析"></a>辨析</h3><p>下面用一组图展示一下区别：<br><strong>間表示的是<font color=Red>从头做到尾的动作</font></strong></p><div class="mermaid-wrap"><pre class="mermaid-src" hidden>  graph LR    a[开始]--从头做到尾--&gt;b[结束]  </pre></div><p><strong>間に表示的是<font color=Red>中间偶然发生的动作</font></strong></p><div class="mermaid-wrap"><pre class="mermaid-src" hidden>  graph LR    a[开始]--某一点发生--&gt;b[结束]  </pre></div><p>下面我们再通过一组例句来感受一下它们的区别</p><p><strong><mark class="hl-label red">勉強の間</mark> 、隣の子供がけらけら<mark class="hl-label blue">笑っていた</mark> </strong><br>学习的时候，旁边的小孩子一直在笑</p><p><strong><mark class="hl-label red">勉強の間に</mark> 、隣の子供が<mark class="hl-label blue">笑った</mark> </strong><br>我学习的时候，旁边的孩子笑了</p><p><strong>并且，在副词的搭配上，二者也截然不同，「間」多和<font color=Red>「ずっと」、「いつも」</font>搭配，而「間に」多与<font color=Red>「一時的に(暂时)」「一度」</font>搭配</strong></p><ul><li><strong><mark class="hl-label red">休みの間</mark> 、<mark class="hl-label blue">ずっと</mark> 引きこもっていた</strong><br>放假那会儿一直在家</li><li><strong><mark class="hl-label red">休みの間に</mark> 、<mark class="hl-label blue">一時的に</mark> 引きこもっていた</strong><br>放假那会儿暂时在家里待过</li></ul><h3 id="练习"><a href="#练习" class="headerlink" title="练习"></a>练习</h3><p>下面的练习来自<a href="https://colanekojp.com.tw/classroom_detail/100">「間」 V.S. 「間に」</a></p><ul><li>飛行機に乗っている（　）、ずっと隣の美魔女とおしゃべりをしていました。</li><li>うんこをしている（　）、トイレットペーパーがなくなったのに気付いた。</li><li>日本にいる（　）、一度日本の女子高生と合コンしてみたい。</li><li>先生が授業をしている（　）、いつもスマホを弄っている。</li></ul><div class="hide-block"><button type="button" class="hide-button" style="background-color: Orange;">答案    </button><div class="hide-content"><p><strong>第一题：<font color=Red>間</font></strong><br><strong>第二题：<font color=Red>間に</font></strong><br><strong>第三题：<font color=Red>間に</font></strong><br><strong>第四题：<font color=Red>間</font></strong></p></div></div><h2 id="うちに-和-うちは-🧲"><a href="#うちに-和-うちは-🧲" class="headerlink" title="うちに 和 うちは 🧲"></a>うちに 和 うちは 🧲</h2><h2 id="まで-和-までに-📆"><a href="#まで-和-までに-📆" class="headerlink" title="まで 和 までに 📆"></a>まで 和 までに 📆</h2><h2 id="おりに-📦"><a href="#おりに-📦" class="headerlink" title="おりに 📦"></a>おりに 📦</h2><h2 id="ごとに-🚀"><a href="#ごとに-🚀" class="headerlink" title="ごとに 🚀"></a>ごとに 🚀</h2><h2 id="たびに-📝"><a href="#たびに-📝" class="headerlink" title="たびに 📝"></a>たびに 📝</h2>]]></content>
       
       
+      <categories>
+          
+          <category> N2语法 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 日语 </tag>
+            
+            <tag> N2 </tag>
+            
+        </tags>
       
     </entry>
     
