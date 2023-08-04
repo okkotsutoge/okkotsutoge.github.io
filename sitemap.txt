@@ -1,3 +1,4 @@
+https://natsume32.com/2023/08/04/japanese/topic/N2_keigo_grammar/
 https://natsume32.com/2023/08/04/programming/python/ncre/jieba_tutorial1/
 https://natsume32.com/2023/08/04/japanese/jp_N2_grammar/N2_youjyanaika_grammar/
 https://natsume32.com/2023/08/04/japanese/jp_N2_grammar/N2_kaigaaru_grammar/
@@ -14,10 +15,12 @@ https://natsume32.com/tags/index.html
 https://natsume32.com/
 https://natsume32.com/tags/%E6%97%A5%E8%AF%AD/
 https://natsume32.com/tags/N2/
+https://natsume32.com/tags/%E6%97%A5%E8%AF%AD%E7%9F%A5%E8%AF%86%E4%B8%93%E6%A0%8F/
 https://natsume32.com/tags/N1/
 https://natsume32.com/tags/N4/
 https://natsume32.com/tags/jieba/
 https://natsume32.com/categories/N2%E8%AF%AD%E6%B3%95/
+https://natsume32.com/categories/%E6%97%A5%E8%AF%AD%E7%9F%A5%E8%AF%86/
 https://natsume32.com/categories/N1%E8%AF%AD%E6%B3%95/
 https://natsume32.com/categories/N2%E8%AF%8D%E6%B1%87/
 https://natsume32.com/categories/N4%E8%AF%AD%E6%B3%95/
