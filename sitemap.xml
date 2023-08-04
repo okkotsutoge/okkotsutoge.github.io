@@ -1,117 +1,179 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://natsume32.com/2023/08/04/japanese/jp_N2_grammar/N2_youjyanaika_grammar/</loc>
+    
+    <lastmod>2023-08-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://natsume32.com/2023/08/04/japanese/jp_N2_grammar/N2_kaigaaru_grammar/</loc>
+    
+    <lastmod>2023-08-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://natsume32.com/2023/08/04/japanese/jp_N2_grammar/N2_okeru_oujiru_tsuite_grammar/</loc>
+    
+    <lastmod>2023-08-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://natsume32.com/2023/08/01/japanese/jp_N2_grammar/N2_uchini_aidani_etc_grammar/</loc>
+    
+    <lastmod>2023-08-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://natsume32.com/2023/07/31/japanese/jp_N2_grammar/N2_affrimation_grammar/</loc>
+    
+    <lastmod>2023-07-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://natsume32.com/2023/07/30/japanese/jp_N3_grammar/N3_ue_rel_grammar/</loc>
+    
+    <lastmod>2023-07-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://natsume32.com/2023/07/28/japanese/jp_N4_grammar/N4_conditional_grammar/</loc>
+    
+    <lastmod>2023-07-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://natsume32.com/2023/07/30/japanese/jp_N2_grammar/N2_result_indicative_grammar/</loc>
+    
+    <lastmod>2023-07-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://natsume32.com/2023/07/29/japanese/jp_N2_grammar/tarasaigo_N2/</loc>
+    
+    <lastmod>2023-07-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://natsume32.com/2023/07/29/japanese/jp_N2_vocab/N2_vocab_ch5/</loc>
+    
+    <lastmod>2023-07-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://natsume32.com/categories/index.html</loc>
+    
+    <lastmod>2023-07-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://natsume32.com/tags/index.html</loc>
+    
+    <lastmod>2023-07-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
+  <url>
+    <loc>https://natsume32.com/</loc>
+    <lastmod>2023-08-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
 
-<url>
-  <loc>http://natsume32.com/</loc>
-  <lastmod>2023-08-01T15:24:51+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>http://natsume32.com/archives/</loc>
-  <lastmod>2023-08-01T15:24:51+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://natsume32.com/tags/</loc>
-  <lastmod>2023-08-01T15:24:51+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://natsume32.com/categories/</loc>
-  <lastmod>2023-08-01T15:24:51+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://natsume32.com/2023/08/01/N2_uchini_aidani_etc_grammar/</loc>
-  <lastmod>2023-08-01T15:24:51+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://natsume32.com/categories/N2%E8%AF%AD%E6%B3%95/</loc>
-  <lastmod>2023-08-01T15:24:51+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://natsume32.com/tags/%E6%97%A5%E8%AF%AD/</loc>
-  <lastmod>2023-08-01T15:24:51+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://natsume32.com/tags/N2/</loc>
-  <lastmod>2023-08-01T15:24:51+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://natsume32.com/2023/07/31/N2_affrimation_grammar/</loc>
-  <lastmod>2023-08-01T15:24:51+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://natsume32.com/2023/07/30/N3_ue_rel_grammar/</loc>
-  <lastmod>2023-08-01T15:24:51+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://natsume32.com/2023/07/30/N2_result_indicative_grammar/</loc>
-  <lastmod>2023-08-01T15:24:51+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://natsume32.com/2023/07/29/N2_vocab_ch5/</loc>
-  <lastmod>2023-08-01T15:24:51+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://natsume32.com/categories/N2%E8%AF%8D%E6%B1%87/</loc>
-  <lastmod>2023-08-01T15:24:51+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://natsume32.com/2023/07/29/tarasaigo_N2/</loc>
-  <lastmod>2023-08-01T15:24:51+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://natsume32.com/categories/N1%E8%AF%AD%E6%B3%95/</loc>
-  <lastmod>2023-08-01T15:24:51+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://natsume32.com/tags/N1/</loc>
-  <lastmod>2023-08-01T15:24:51+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://natsume32.com/2023/07/28/N4_conditional_grammar/</loc>
-  <lastmod>2023-08-01T15:24:51+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://natsume32.com/categories/N4%E8%AF%AD%E6%B3%95/</loc>
-  <lastmod>2023-08-01T15:24:51+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://natsume32.com/tags/N4/</loc>
-  <lastmod>2023-08-01T15:24:51+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://natsume32.com/archives/2023/08/</loc>
-  <lastmod>2023-08-01T15:24:51+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://natsume32.com/archives/2023/07/</loc>
-  <lastmod>2023-08-01T15:24:51+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
+  
+  <url>
+    <loc>https://natsume32.com/tags/%E6%97%A5%E8%AF%AD/</loc>
+    <lastmod>2023-08-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://natsume32.com/tags/N2/</loc>
+    <lastmod>2023-08-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://natsume32.com/tags/N1/</loc>
+    <lastmod>2023-08-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://natsume32.com/tags/N4/</loc>
+    <lastmod>2023-08-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
-
+  
+  <url>
+    <loc>https://natsume32.com/categories/N2%E8%AF%AD%E6%B3%95/</loc>
+    <lastmod>2023-08-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://natsume32.com/categories/N1%E8%AF%AD%E6%B3%95/</loc>
+    <lastmod>2023-08-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://natsume32.com/categories/N2%E8%AF%8D%E6%B1%87/</loc>
+    <lastmod>2023-08-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://natsume32.com/categories/N4%E8%AF%AD%E6%B3%95/</loc>
+    <lastmod>2023-08-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 </urlset>

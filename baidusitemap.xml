@@ -2,33 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://natsume32.com/2023/08/04/japanese/jp_N2_grammar/N2_youjyanaika_grammar/</loc>
-    <lastmod>2023-08-04T08:17:13.049Z</lastmod>
-  </url>  <url>
-    <loc>https://natsume32.com/2023/08/04/japanese/jp_N2_grammar/N2_kaigaaru_grammar/</loc>
-    <lastmod>2023-08-04T07:45:51.361Z</lastmod>
-  </url>  <url>
-    <loc>https://natsume32.com/2023/08/04/japanese/jp_N2_grammar/N2_okeru_oujiru_tsuite_grammar/</loc>
-    <lastmod>2023-08-04T07:40:36.226Z</lastmod>
-  </url>  <url>
-    <loc>https://natsume32.com/2023/08/01/japanese/jp_N2_grammar/N2_uchini_aidani_etc_grammar/</loc>
-    <lastmod>2023-08-04T07:35:11.259Z</lastmod>
-  </url>  <url>
-    <loc>https://natsume32.com/2023/07/31/japanese/jp_N2_grammar/N2_affrimation_grammar/</loc>
-    <lastmod>2023-07-31T16:16:52.127Z</lastmod>
-  </url>  <url>
-    <loc>https://natsume32.com/2023/07/30/japanese/jp_N3_grammar/N3_ue_rel_grammar/</loc>
-    <lastmod>2023-07-31T15:12:04.008Z</lastmod>
-  </url>  <url>
-    <loc>https://natsume32.com/2023/07/28/japanese/jp_N4_grammar/N4_conditional_grammar/</loc>
-    <lastmod>2023-07-31T03:32:47.038Z</lastmod>
-  </url>  <url>
-    <loc>https://natsume32.com/2023/07/30/japanese/jp_N2_grammar/N2_result_indicative_grammar/</loc>
-    <lastmod>2023-07-30T10:03:00.478Z</lastmod>
-  </url>  <url>
-    <loc>https://natsume32.com/2023/07/29/japanese/jp_N2_grammar/tarasaigo_N2/</loc>
-    <lastmod>2023-07-30T09:28:01.504Z</lastmod>
-  </url>  <url>
-    <loc>https://natsume32.com/2023/07/29/japanese/jp_N2_vocab/N2_vocab_ch5/</loc>
-    <lastmod>2023-07-30T09:25:54.949Z</lastmod>
+    <lastmod>2023-08-04</lastmod>
   </url>
-</urlset>
+  <url>
+    <loc>https://natsume32.com/2023/08/04/japanese/jp_N2_grammar/N2_kaigaaru_grammar/</loc>
+    <lastmod>2023-08-04</lastmod>
+  </url>
+  <url>
+    <loc>https://natsume32.com/2023/08/04/japanese/jp_N2_grammar/N2_okeru_oujiru_tsuite_grammar/</loc>
+    <lastmod>2023-08-04</lastmod>
+  </url>
+  <url>
+    <loc>https://natsume32.com/2023/08/01/japanese/jp_N2_grammar/N2_uchini_aidani_etc_grammar/</loc>
+    <lastmod>2023-08-04</lastmod>
+  </url>
+  <url>
+    <loc>https://natsume32.com/2023/07/31/japanese/jp_N2_grammar/N2_affrimation_grammar/</loc>
+    <lastmod>2023-07-31</lastmod>
+  </url>
+  <url>
+    <loc>https://natsume32.com/2023/07/30/japanese/jp_N3_grammar/N3_ue_rel_grammar/</loc>
+    <lastmod>2023-07-31</lastmod>
+  </url>
+  <url>
+    <loc>https://natsume32.com/2023/07/28/japanese/jp_N4_grammar/N4_conditional_grammar/</loc>
+    <lastmod>2023-07-31</lastmod>
+  </url>
+  <url>
+    <loc>https://natsume32.com/2023/07/30/japanese/jp_N2_grammar/N2_result_indicative_grammar/</loc>
+    <lastmod>2023-07-30</lastmod>
+  </url>
+  <url>
+    <loc>https://natsume32.com/2023/07/29/japanese/jp_N2_grammar/tarasaigo_N2/</loc>
+    <lastmod>2023-07-30</lastmod>
+  </url>
+  <url>
+    <loc>https://natsume32.com/2023/07/29/japanese/jp_N2_vocab/N2_vocab_ch5/</loc>
+    <lastmod>2023-07-30</lastmod>
+  </url>
+</urlset> 
