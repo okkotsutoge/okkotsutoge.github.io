@@ -2761,7 +2761,7 @@ h1.page-title + .tag-cloud-list {
   margin-top: -9px;
   color: #a9a9a9;
   font-style: italic;
-  font-size: 140%;
+  font-size: 120%;
 }
 #aside-content #card-toc .toc-content {
   overflow-y: scroll;
@@ -2796,6 +2796,7 @@ h1.page-title + .tag-cloud-list {
 #aside-content #card-toc .toc-content ol,
 #aside-content #card-toc .toc-content li {
   list-style: none;
+  font-size: 12px;
 }
 #aside-content #card-toc .toc-content > ol {
   padding: 0 !important;
@@ -2807,7 +2808,7 @@ h1.page-title + .tag-cloud-list {
 #aside-content #card-toc .toc-content .toc-link {
   display: block;
   margin: 4px 0;
-  padding: 1px 6px;
+  padding: 1px 2px;
   color: var(--toc-link-color);
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
