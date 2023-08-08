@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://natsume32.com/2023/08/07/programming/python/django/dataset_django/</loc>
+    <lastmod>2023-08-08</lastmod>
+  </url>
+  <url>
     <loc>https://natsume32.com/2023/08/08/japanese/jp_N2_grammar/N2_dakejyanaku_nikuwaete/</loc>
     <lastmod>2023-08-08</lastmod>
   </url>
@@ -11,10 +15,6 @@
   <url>
     <loc>https://natsume32.com/2023/08/04/japanese/topic/N2_keigo_grammar/</loc>
     <lastmod>2023-08-08</lastmod>
-  </url>
-  <url>
-    <loc>https://natsume32.com/2023/08/07/programming/python/django/dataset_django/</loc>
-    <lastmod>2023-08-07</lastmod>
   </url>
   <url>
     <loc>https://natsume32.com/2023/08/06/japanese/jp_N3_grammar/N3_oke_oite_nite/</loc>
